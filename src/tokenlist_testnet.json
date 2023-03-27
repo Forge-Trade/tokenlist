@@ -49,7 +49,7 @@
       "logoURI": "https://github.com/trustwallet/assets/blob/master/blockchains/binance/assets/SWINGBY-888/logo.png"
     },
      {
-      "name": "AVAX",
+      "name": "tAVAX",
       "symbol": "tAVAX",
       "chainId": 9000,
       "decimals": 18,
@@ -57,12 +57,12 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/avalanchec/info/logo.png"
     },
     {
-    "name": "Arbitrum",
+    "name": "tArbitrum",
     "symbol": "tARB",
     "chainId": 9000,
     "decimals": 18,
-    "address": "0xbefe898407483f0f2ff605971fbd8cf8fbd8b160",
-    "logoURI": "https://github.com/trustwallet/assets/blob/2ec0eafcf3f2e99ba4735bc67fd64ac6d5c34c2c/blockchains/arbitrum/assets/0x912CE59144191C1204E64559FE8253a0e49E6548/logo.png"
+    "address": "0x84caebd3bf991dbe89701023dafc3d0533687b17",
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/arbitrum/assets/0x912CE59144191C1204E64559FE8253a0e49E6548/logo.png"
   },
     {
     "name": "ATOM",
