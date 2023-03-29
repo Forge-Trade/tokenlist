@@ -38,7 +38,7 @@
       "chainId": 9000,
       "decimals": 18,
       "address": "0xE7bbbEE8Fc04F93d5D07029754D2345684A9a28B",
-      "logoURI": "https://github.com/trustwallet/assets/blob/master/blockchains/binance/assets/BULL-BE4/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/BULL-BE4/logo.png"
     },
      {
       "name": "Up Only",
@@ -46,7 +46,7 @@
       "chainId": 9000,
       "decimals": 18,
       "address": "0xA83C23914Ab58B4A19C510f1A46FFB4fFcDa3c95",
-      "logoURI": "https://github.com/trustwallet/assets/blob/master/blockchains/binance/assets/SWINGBY-888/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/SWINGBY-888/logo.png"
     },
      {
       "name": "tAVAX",
