@@ -1,11 +1,11 @@
 {
   "name": "Forge Token List",
-  "timestamp": "2023-04-11T00:00:00.000Z",
+  "timestamp": "2023-04-11T01:00:00.000Z",
   "logoURI": "https://testnet.forge.trade/images/ForgeIcon.png",
   "version": {
     "major": 21,
     "minor": 1,
-    "patch": 0
+    "patch": 1
   },
   "tokens": [
     {
@@ -350,7 +350,7 @@
       "chainId": 9001,
       "decimals": 18,
       "address": "0x45c5e270c6f01e48507098c6C8b580584EF3E559",
-      "logoURI": "https://ewxsnfvwqbshv63csyabwa63qykjf52qq2qcwdrl5b2emzxcj4wq.arweave.net/Ja8mlraAZHr7YpYAGwPbhhSS91CGoCsOK-h0RmbiTy0"
+      "logoURI": "https://bafybeifuxmoqh47r77j2q2jhysxv4l7kpvqdtcb2l4pcth4qirdm6h4fte.ipfs.w3s.link/XSLP2.png"
     },    
     {
       "name": "SpaceFi",
