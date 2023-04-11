@@ -1,11 +1,11 @@
 {
   "name": "Forge Token List",
-  "timestamp": "2023-04-11T01:00:00.000Z",
+  "timestamp": "2023-04-11T02:00:00.000Z",
   "logoURI": "https://testnet.forge.trade/images/ForgeIcon.png",
   "version": {
     "major": 21,
     "minor": 1,
-    "patch": 1
+    "patch": 2
   },
   "tokens": [
     {
@@ -345,12 +345,12 @@
       "logoURI": "https://assets.coingecko.com/coins/images/27785/small/evmos-domains.png?1665798992"
     },    
     {
-      "name": "xEVMOS - xSPACE LP",
-      "symbol": "xSLP",
+      "name": "xEVMOS - xSPACE SLP",
+      "symbol": "xEVMOSxSPACE",
       "chainId": 9001,
       "decimals": 18,
       "address": "0x45c5e270c6f01e48507098c6C8b580584EF3E559",
-      "logoURI": "https://bafybeifuxmoqh47r77j2q2jhysxv4l7kpvqdtcb2l4pcth4qirdm6h4fte.ipfs.w3s.link/XSLP2.png"
+      "logoURI": "https://bafybeigkcvyyvfc4urof3ledmyoo6wtfgrhwtquivy2ocsaejmxum4naie.ipfs.w3s.link/XSLP3.png"
     },    
     {
       "name": "SpaceFi",
