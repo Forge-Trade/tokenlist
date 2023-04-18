@@ -97,22 +97,6 @@
       "logoURI": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/ststars.png"
     },
     {
-      "name": "Diffusion",
-      "symbol": "DIFF",
-      "chainId": 9001,
-      "decimals": 18,
-      "address": "0x3f75ceabCDfed1aCa03257Dc6Bdc0408E2b4b026",
-      "logoURI": "https://storage.googleapis.com/us-central1-dgc-berlin-0-470cbba9-bucket/tokenlist/DIFF.png"
-    },
-    {
-      "name": "xDiffusion",
-      "symbol": "xDIFF",
-      "chainId": 9001,
-      "decimals": 18,
-      "address": "0x75aeE82a16BD1fB98b11879af93AB7CE055f66Da",
-      "logoURI": "https://storage.googleapis.com/us-central1-dgc-berlin-0-470cbba9-bucket/tokenlist/xDIFF.png"
-    },
-    {
       "name": "USD Coin - Axelar",
       "symbol": "axlUSDC",
       "chainId": 9001,
@@ -142,7 +126,7 @@
       "chainId": 9001,
       "decimals": 6,
       "address": "0x80b5a32e4f032b2a058b4f29ec95eefeeb87adcd",
-      "logoURI": "https://storage.googleapis.com/us-central1-dgc-berlin-0-470cbba9-bucket/tokenlist/grav-ibc.png"
+      "logoURI": "https://raw.githubusercontent.com/cosmos/chain-registry/master/gravitybridge/images/grav.png"
     },
     {
       "name": "Wrapped Ether - Gravity",
@@ -150,7 +134,7 @@
       "chainId": 9001,
       "decimals": 18,
       "address": "0xc03345448969Dd8C00e9E4A85d2d9722d093aF8E",
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/weth.grv.svg"
     },
     {
       "name": "Wrapped BTC - Gravity",
@@ -158,7 +142,7 @@
       "chainId": 9001,
       "decimals": 8,
       "address": "0x1D54EcB8583Ca25895c512A8308389fFD581F9c9",
-      "logoURI": "https://assets.coingecko.com/coins/images/14867/thumb/binance-btc_32.png"
+      "logoURI": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/wbtc.grv.svg"
     },
     {
       "name": "USD Coin - Gravity",
@@ -166,7 +150,7 @@
       "chainId": 9001,
       "decimals": 6,
       "address": "0x5FD55A1B9FC24967C4dB09C513C3BA0DFa7FF687",
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/usdc.grv.svg"
     },
     {
       "name": "Dai Stablecoin - Gravity",
@@ -174,7 +158,7 @@
       "chainId": 9001,
       "decimals": 18,
       "address": "0xd567B3d7B8FE3C79a1AD8dA978812cfC4Fa05e75",
-      "logoURI": "https://assets.coingecko.com/coins/images/9956/thumb/4943.png"
+      "logoURI": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/dai.grv.svg"
     },
     {
       "name": "Tether USD - Gravity",
@@ -190,7 +174,7 @@
       "chainId": 9001,
       "decimals": 18,
       "address": "0xE03494D0033687543a80c9B1ca7D6237F2EA8BD8",
-      "logoURI": "https://storage.googleapis.com/us-central1-dgc-berlin-0-470cbba9-bucket/tokenlist/evmCanonicalFRAX.png"
+      "logoURI": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/usdt.grv.svg"
     },
     {
       "name": "Frax Share",
