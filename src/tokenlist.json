@@ -1,10 +1,10 @@
 {
   "name": "Forge Token List",
-  "timestamp": "2023-04-11T02:00:00.000Z",
+  "timestamp": "2023-04-19T06:33:08Z",
   "logoURI": "https://testnet.forge.trade/images/ForgeIcon.png",
   "version": {
     "major": 21,
-    "minor": 1,
+    "minor": 2,
     "patch": 2
   },
   "tokens": [
