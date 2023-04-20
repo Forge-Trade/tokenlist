@@ -1,10 +1,10 @@
 {
   "name": "Forge Token List",
-  "timestamp": "2023-04-11T02:00:00.000Z",
+  "timestamp": "2023-04-19T06:33:08Z",
   "logoURI": "https://testnet.forge.trade/images/ForgeIcon.png",
   "version": {
     "major": 21,
-    "minor": 1,
+    "minor": 2,
     "patch": 2
   },
   "tokens": [
@@ -343,6 +343,22 @@
       "decimals": 18,
       "address": "0x4e2d4f33d759976381d9dee04b197bf52f6bc1fc",
       "logoURI": "https://static.debank.com/image/evmos_token/logo_url/0x4e2d4f33d759976381d9dee04b197bf52f6bc1fc/86c2fa4fc3f1e3a8a46b4f478018c2ce.png"
+    },    
+    {
+      "name": "XEN Crypto",
+      "symbol": "coXEN",
+      "chainId": 9001,
+      "decimals": 18,
+      "address": "0x2AB0e9e4eE70FFf1fB9D67031E44F6410170d00e",
+      "logoURI": "https://faircrypto.org/_next/image?url=%2Fxen_crypto.png&w=256&q=75"
+    },    
+    {
+      "name": "DBXen Token on Evmos",
+      "symbol": "coDXN",
+      "chainId": 9001,
+      "decimals": 18,
+      "address": "0xc418B123885d732ED042b16e12e259741863F723",
+      "logoURI": "https://pbs.twimg.com/profile_images/1613898260321640450/RF2tJJSm_400x400.jpg"
     }
   ]
 }
