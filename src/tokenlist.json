@@ -1,10 +1,10 @@
 {
   "name": "Forge Token List",
-  "timestamp": "2023-04-23T06:33:08Z",
+  "timestamp": "2023-04-26T06:33:08Z",
   "logoURI": "https://testnet.forge.trade/images/ForgeIcon.png",
   "version": {
     "major": 22,
-    "minor": 2,
+    "minor": 3,
     "patch": 2
   },
   "tokens": [
@@ -39,6 +39,14 @@
       "decimals": 6,
       "address": "0x3452e23F9c4cC62c70B7ADAd699B264AF3549C19",
       "logoURI": "https://assets.coingecko.com/coins/images/19249/small/juno.png"
+    },
+    {
+      "name": "Injective",
+      "symbol": "INJ",
+      "chainId": 9001,
+      "decimals": 18,
+      "address": "0x3515F25AB7637adcF1b69F4D384ed5936B83431F",
+      "logoURI": "https://raw.githubusercontent.com/cosmos/chain-registry/master/injective/images/inj.png"
     },
     {
       "name": "Stargaze",
