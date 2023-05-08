@@ -367,6 +367,14 @@
       "decimals": 18,
       "address": "0xc418B123885d732ED042b16e12e259741863F723",
       "logoURI": "https://pbs.twimg.com/profile_images/1613898260321640450/RF2tJJSm_400x400.jpg"
-    }
+    },
+    {
+      "name": "Pepemos.vip",
+      "symbol": "PEPMOS",
+      "chainId": 9001,
+      "decimals": 18,
+      "address": "0x73fb365e328a775b0ce5b3346d2bbf9cf98535a8",
+      "logoURI": "https://i.kym-cdn.com/photos/images/facebook/002/058/210/e54.png"
+    },
   ]
 }
