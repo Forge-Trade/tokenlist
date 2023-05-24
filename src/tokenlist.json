@@ -4,7 +4,7 @@
   "logoURI": "https://testnet.forge.trade/images/ForgeIcon.png",
   "version": {
     "major": 23,
-    "minor": 3,
+    "minor": 4,
     "patch": 3
   },
   "tokens": [
@@ -359,7 +359,24 @@
       "decimals": 18,
       "address": "0x4e2d4f33d759976381d9dee04b197bf52f6bc1fc",
       "logoURI": "https://static.debank.com/image/evmos_token/logo_url/0x4e2d4f33d759976381d9dee04b197bf52f6bc1fc/86c2fa4fc3f1e3a8a46b4f478018c2ce.png"
-    },    
+    },
+    {
+      "name": "Quicksilver Staked Atom",
+      "symbol": "qATOM",
+      "chainId": 9001,
+      "decimals": 6,
+      "address": "0x4ad26064831ECE180B179a4C02Dc97940AA77B17",
+      "logoURI": "https://raw.githubusercontent.com/cosmos/chain-registry/master/quicksilver/images/qatom.png"
+    },      
+
+    {
+      "name": "Quicksilver Staked Osmo",
+      "symbol": "qOSMO",
+      "chainId": 9001,
+      "decimals": 6,
+      "address": "0x616E00909730f7dE9Afd97Dc71981f6d28e2B0ca",
+      "logoURI": "https://raw.githubusercontent.com/cosmos/chain-registry/master/quicksilver/images/qosmo.png"
+    },      
     {
       "name": "XEN Crypto",
       "symbol": "coXEN",
