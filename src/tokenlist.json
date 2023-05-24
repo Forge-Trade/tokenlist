@@ -4,7 +4,7 @@
   "logoURI": "https://testnet.forge.trade/images/ForgeIcon.png",
   "version": {
     "major": 23,
-    "minor": 4,
+    "minor": 5,
     "patch": 3
   },
   "tokens": [
@@ -368,7 +368,6 @@
       "address": "0x4ad26064831ECE180B179a4C02Dc97940AA77B17",
       "logoURI": "https://raw.githubusercontent.com/cosmos/chain-registry/master/quicksilver/images/qatom.png"
     },      
-
     {
       "name": "Quicksilver Staked Osmo",
       "symbol": "qOSMO",
@@ -376,7 +375,15 @@
       "decimals": 6,
       "address": "0x616E00909730f7dE9Afd97Dc71981f6d28e2B0ca",
       "logoURI": "https://raw.githubusercontent.com/cosmos/chain-registry/master/quicksilver/images/qosmo.png"
-    },      
+    },
+    {
+      "name": "Quicksilver",
+      "symbol": "QCK",
+      "chainId": 9001,
+      "decimals": 6,
+      "address": "0x616E00909730f7dE9Afd97Dc71981f6d28e2B0ca",
+      "logoURI": "https://raw.githubusercontent.com/cosmos/chain-registry/master/quicksilver/images/qck.png"
+    },
     {
       "name": "XEN Crypto",
       "symbol": "coXEN",
