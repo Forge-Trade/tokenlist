@@ -1,10 +1,10 @@
 {
   "name": "Forge Token List",
-  "timestamp": "2023-05-30T06:33:08Z",
+  "timestamp": "2023-05-30T07:33:08Z",
   "logoURI": "https://testnet.forge.trade/images/ForgeIcon.png",
   "version": {
     "major": 24,
-    "minor": 5,
+    "minor": 6,
     "patch": 4
   },
   "tokens": [
@@ -381,7 +381,7 @@
       "symbol": "QCK",
       "chainId": 9001,
       "decimals": 6,
-      "address": "0x616E00909730f7dE9Afd97Dc71981f6d28e2B0ca",
+      "address": "0xf55454383cEEFB1B5e889E59542352B1b928707d",
       "logoURI": "https://raw.githubusercontent.com/cosmos/chain-registry/master/quicksilver/images/qck.png"
     },
     {
