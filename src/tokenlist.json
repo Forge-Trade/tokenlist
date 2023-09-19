@@ -1,9 +1,9 @@
 {
   "name": "Forge Token List",
-  "timestamp": "2023-05-30T07:33:08Z",
+  "timestamp": "2023-09-19T07:33:08Z",
   "logoURI": "https://testnet.forge.trade/images/ForgeIcon.png",
   "version": {
-    "major": 24,
+    "major": 25,
     "minor": 6,
     "patch": 4
   },
@@ -278,6 +278,14 @@
       "chainId": 9001,
       "decimals": 6,
       "address": "0xb72A7567847abA28A2819B855D7fE679D4f59846",
+      "logoURI": "https://assets.coingecko.com/coins/images/24826/small/usdt.png"
+    },
+    {
+      "name": "Tether USD - Kava",
+      "symbol": "USDT",
+      "chainId": 9001,
+      "decimals": 6,
+      "address": "0xb8f812b5943ab3bf941d5d4f1de90a4b326c5d8f",
       "logoURI": "https://assets.coingecko.com/coins/images/24826/small/usdt.png"
     },
     {
