@@ -4,7 +4,7 @@
   "logoURI": "https://testnet.forge.trade/images/ForgeIcon.png",
   "version": {
     "major": 25,
-    "minor": 6,
+    "minor": 7,
     "patch": 4
   },
   "tokens": [
@@ -407,6 +407,30 @@
       "decimals": 18,
       "address": "0xc418B123885d732ED042b16e12e259741863F723",
       "logoURI": "https://pbs.twimg.com/profile_images/1613898260321640450/RF2tJJSm_400x400.jpg"
+    },   
+    {
+      "name": "cEVMOS (Tashi Lending)",
+      "symbol": "cEVMOS",
+      "chainId": 9001,
+      "decimals": 8,
+      "address": "0x1cd248d72248a0618932f77093dc4cec9757759d",
+      "logoURI": "https://bafybeifljb25ehlnx3aawwxd2j77hqqy3wpsdgmmf5forb6oohybnlkln4.ipfs.w3s.link/cEVMOS.png"
+    },    
+    {
+      "name": "cATOM (Tashi Lending)",
+      "symbol": "cATOM",
+      "chainId": 9001,
+      "decimals": 8,
+      "address": "0xd7b451014c38216938ec02ea69769ba02e744044",
+      "logoURI": "https://bafybeibwvlxa3wd5mptp7dzyndxipibhkngamlwzzdnqfkon37gdqbaa54.ipfs.w3s.link/cATOM.png"
+    },    
+    {
+      "name": "cUSDT.k (Tashi Lending)",
+      "symbol": "cUSDT.k",
+      "chainId": 9001,
+      "decimals": 8,
+      "address": "0xb8f812b5943ab3bf941d5d4f1de90a4b326c5d8f",
+      "logoURI": "https://bafybeicgrozniitu6o2yvhfav4jaiwytra6e6lczha4rdf5dugp6qxtcca.ipfs.w3s.link/cUSDT.png"
     }
   ]
 }
