@@ -4,8 +4,8 @@
   "logoURI": "https://testnet.forge.trade/images/ForgeIcon.png",
   "version": {
     "major": 25,
-    "minor": 8,
-    "patch": 6
+    "minor": 9,
+    "patch": 7
   },
   "tokens": [
     {
@@ -425,8 +425,8 @@
       "logoURI": "https://bafybeibwvlxa3wd5mptp7dzyndxipibhkngamlwzzdnqfkon37gdqbaa54.ipfs.w3s.link/cATOM.png"
     },    
     {
-      "name": "cUSDT.k (Tashi Lending)",
-      "symbol": "cUSDT.k",
+      "name": "cUSDT Kava (Tashi Lending)",
+      "symbol": "cUSDTk",
       "chainId": 9001,
       "decimals": 8,
       "address": "0x5ac7404f17f64fe8cd812d45a6f5fc6ffc46f288",
