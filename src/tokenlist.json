@@ -4,8 +4,8 @@
   "logoURI": "https://testnet.forge.trade/images/ForgeIcon.png",
   "version": {
     "major": 25,
-    "minor": 7,
-    "patch": 5
+    "minor": 8,
+    "patch": 6
   },
   "tokens": [
     {
@@ -429,7 +429,7 @@
       "symbol": "cUSDT.k",
       "chainId": 9001,
       "decimals": 8,
-      "address": "0xb8f812b5943ab3bf941d5d4f1de90a4b326c5d8f",
+      "address": "0x5ac7404f17f64fe8cd812d45a6f5fc6ffc46f288",
       "logoURI": "https://bafybeicgrozniitu6o2yvhfav4jaiwytra6e6lczha4rdf5dugp6qxtcca.ipfs.w3s.link/cUSDT.png"
     }
   ]
