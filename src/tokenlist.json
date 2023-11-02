@@ -1,11 +1,11 @@
 {
   "name": "Forge Token List",
-  "timestamp": "2023-09-19T07:33:08Z",
+  "timestamp": "2023-11-01T07:33:08Z",
   "logoURI": "https://testnet.forge.trade/images/ForgeIcon.png",
   "version": {
     "major": 25,
-    "minor": 9,
-    "patch": 7
+    "minor": 10,
+    "patch": 8
   },
   "tokens": [
     {
@@ -431,6 +431,14 @@
       "decimals": 8,
       "address": "0x5ac7404f17f64fe8cd812d45a6f5fc6ffc46f288",
       "logoURI": "https://bafybeicgrozniitu6o2yvhfav4jaiwytra6e6lczha4rdf5dugp6qxtcca.ipfs.w3s.link/cUSDT.png"
+    },    
+    {
+      "name": "USDC - Noble",
+      "symbol": "USDC",
+      "chainId": 9001,
+      "decimals": 6,
+      "address": "0xf1fae9ec886c5f6e4ea13da2456087bd72f02cd1",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
     }
   ]
 }
