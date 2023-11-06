@@ -1,11 +1,11 @@
 {
   "name": "Forge Token List",
-  "timestamp": "2023-11-01T07:33:08Z",
+  "timestamp": "2023-11-06T07:33:08Z",
   "logoURI": "https://testnet.forge.trade/images/ForgeIcon.png",
   "version": {
     "major": 25,
-    "minor": 10,
-    "patch": 8
+    "minor": 11,
+    "patch": 9
   },
   "tokens": [
     {
@@ -439,6 +439,14 @@
       "decimals": 6,
       "address": "0xf1fae9ec886c5f6e4ea13da2456087bd72f02cd1",
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    },    
+    {
+      "name": "Tashi",
+      "symbol": "TASHI",
+      "chainId": 9001,
+      "decimals": 18,
+      "address": "0x98fAFD9F714CE0B4bB2870527076F2F314aAed82",
+      "logoURI": "https://bafybeicpax5wssw73zqbiwaoxragg2bavn6dlmdhypvvc66wvg6mf474qm.ipfs.w3s.link/2200285818949a07d36e303576f14af5.png"
     }
   ]
 }
