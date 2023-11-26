@@ -1,9 +1,9 @@
 {
   "name": "Forge Token List",
-  "timestamp": "2023-11-06T07:33:08Z",
+  "timestamp": "2023-11-26T07:33:08Z",
   "logoURI": "https://testnet.forge.trade/images/ForgeIcon.png",
   "version": {
-    "major": 25,
+    "major": 26,
     "minor": 11,
     "patch": 9
   },
@@ -447,6 +447,39 @@
       "decimals": 18,
       "address": "0x98fAFD9F714CE0B4bB2870527076F2F314aAed82",
       "logoURI": "https://bafybeicpax5wssw73zqbiwaoxragg2bavn6dlmdhypvvc66wvg6mf474qm.ipfs.w3s.link/2200285818949a07d36e303576f14af5.png"
+    }
+    ,    
+    {
+      "name": "Wrapped BTC - Wormhole",
+      "symbol": "WBTC",
+      "chainId": 9001,
+      "decimals": 8,
+      "address": "0xC732284e5deDb565ba403216d718a485038E55A6",
+      "logoURI": "https://assets.coingecko.com/coins/images/14867/thumb/binance-btc_32.png"
+    },  
+    {
+      "name": "Wrapped Ether - Wormhole",
+      "symbol": "WETH",
+      "chainId": 9001,
+      "decimals": 18,
+      "address": "0x4D036A97e9ad9e805f0E7B163Ea681B3dE83B7BF",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    }, 
+    {
+      "name": "USDC - Wormhole",
+      "symbol": "USDC",
+      "chainId": 9001,
+      "decimals": 6,
+      "address": "0xC4CcDf91b810a61cCB48b35ccCc066C63bf94B4F",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    },  
+    {
+      "name": "USDT - Wormhole",
+      "symbol": "USDT",
+      "chainId": 9001,
+      "decimals": 6,
+      "address": "0xa9582420b222c85ee5b6e766415eea5673283a03",
+      "logoURI": "https://assets.coingecko.com/coins/images/24826/small/usdt.png"
     }
   ]
 }
