@@ -1,9 +1,9 @@
 {
   "name": "Forge Token List",
-  "timestamp": "2023-11-26T07:33:08Z",
+  "timestamp": "2023-12-05T07:33:08Z",
   "logoURI": "https://testnet.forge.trade/images/ForgeIcon.png",
   "version": {
-    "major": 26,
+    "major": 27,
     "minor": 11,
     "patch": 9
   },
@@ -461,7 +461,7 @@
       "name": "Wrapped Ether - Wormhole",
       "symbol": "WETH",
       "chainId": 9001,
-      "decimals": 18,
+      "decimals": 8,
       "address": "0x4D036A97e9ad9e805f0E7B163Ea681B3dE83B7BF",
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
     }, 
