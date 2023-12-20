@@ -1,10 +1,10 @@
 {
   "name": "Forge Token List",
-  "timestamp": "2023-12-05T07:33:08Z",
+  "timestamp": "2023-12-20T12:33:08Z",
   "logoURI": "https://testnet.forge.trade/images/ForgeIcon.png",
   "version": {
     "major": 27,
-    "minor": 11,
+    "minor": 12,
     "patch": 9
   },
   "tokens": [
@@ -480,6 +480,22 @@
       "decimals": 6,
       "address": "0xa9582420b222c85ee5b6e766415eea5673283a03",
       "logoURI": "https://assets.coingecko.com/coins/images/24826/small/usdt.png"
+    },
+    {
+      "name": "Evmoon",
+      "symbol": "EVM",
+      "chainId": 9001,
+      "decimals": 18,
+      "address": "0x524400756F3D288d90C04eaA0d130cB9c4ADC412",
+      "logoURI": "https://dweb.link/ipfs/bafybeia3zgw7y7eephx7h2b4hkhffjnvgfjjhtsfpbkumaf5mfj4y7ncbi/photo_2023-12-20_12-27-55.jpg"
+    },
+    {
+      "name": "Light",
+      "symbol": "LIGHT",
+      "chainId": 9001,
+      "decimals": 6,
+      "address": "0xe7520B4b89F105c53D4DBA596ebaF1Bd6A44D544",
+      "logoURI": "hhttps://upload.wikimedia.org/wikipedia/commons/1/1a/White_pog.svg"
     }
   ]
 }
