@@ -1,10 +1,10 @@
 {
   "name": "Forge Token List",
-  "timestamp": "2024-01-09T12:35:08Z",
+  "timestamp": "2024-01-09T12:35:18Z",
   "logoURI": "https://testnet.forge.trade/images/ForgeIcon.png",
   "version": {
     "major": 28,
-    "minor": 13,
+    "minor": 14,
     "patch": 10
   },
   "tokens": [
@@ -242,7 +242,7 @@
     },
     {
       "name": "Tether USD - Kava",
-      "symbol": "USDT",
+      "symbol": "USDTk",
       "chainId": 9001,
       "decimals": 6,
       "address": "0xb8f812b5943ab3bf941d5d4f1de90a4b326c5d8f",
@@ -427,7 +427,7 @@
     }, 
     {
       "name": "USDC - Wormhole",
-      "symbol": "USDC",
+      "symbol": "USDCw",
       "chainId": 9001,
       "decimals": 6,
       "address": "0xC4CcDf91b810a61cCB48b35ccCc066C63bf94B4F",
@@ -435,7 +435,7 @@
     },  
     {
       "name": "USDT - Wormhole",
-      "symbol": "USDT",
+      "symbol": "USDTw",
       "chainId": 9001,
       "decimals": 6,
       "address": "0xa9582420b222c85ee5b6e766415eea5673283a03",
