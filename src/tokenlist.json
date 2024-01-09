@@ -1,11 +1,11 @@
 {
   "name": "Forge Token List",
-  "timestamp": "2023-12-05T07:33:08Z",
+  "timestamp": "2024-01-09T12:35:08Z",
   "logoURI": "https://testnet.forge.trade/images/ForgeIcon.png",
   "version": {
-    "major": 27,
-    "minor": 11,
-    "patch": 9
+    "major": 28,
+    "minor": 13,
+    "patch": 10
   },
   "tokens": [
     {
@@ -199,46 +199,6 @@
       "decimals": 18,
       "address": "0xd8176865DD0D672c6Ab4A427572f80A72b4B4A9C",
       "logoURI": "https://storage.googleapis.com/us-central1-dgc-berlin-0-470cbba9-bucket/tokenlist/evmCanonicalFXS.png"
-    },
-    {
-      "name": "Dai Stablecoin - MultiChain",
-      "symbol": "mulDAI",
-      "chainId": 9001,
-      "decimals": 18,
-      "address": "0x461d52769884ca6235B685EF2040F47d30C94EB5",
-      "logoURI": "https://assets.coingecko.com/coins/images/9956/thumb/4943.png"
-    },
-    {
-      "name": "Wrapped Ether - MultiChain",
-      "symbol": "mulWETH",
-      "chainId": 9001,
-      "decimals": 18,
-      "address": "0x7C598c96D02398d89FbCb9d41Eab3DF0C16F227D",
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
-    },
-    {
-      "name": "Wrapped BTC - MultiChain",
-      "symbol": "mulWBTC",
-      "chainId": 9001,
-      "decimals": 8,
-      "address": "0x332730a4F6E03D9C55829435f10360E13cfA41Ff",
-      "logoURI": "https://assets.coingecko.com/coins/images/14867/thumb/binance-btc_32.png"
-    },
-    {
-      "name": "USD Coin - MultiChain",
-      "symbol": "mulUSDC",
-      "chainId": 9001,
-      "decimals": 6,
-      "address": "0x2C78f1b70Ccf63CDEe49F9233e9fAa99D43AA07e",
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
-    },
-    {
-      "name": "Tether USD - MultiChain",
-      "symbol": "mulUSDT",
-      "chainId": 9001,
-      "decimals": 6,
-      "address": "0xC1Be9a4D5D45BeeACAE296a7BD5fADBfc14602C4",
-      "logoURI": "https://assets.coingecko.com/coins/images/325/thumb/Tether-logo.png"
     },
     {
       "name": "Dai Stablecoin - Celer",
@@ -480,6 +440,30 @@
       "decimals": 6,
       "address": "0xa9582420b222c85ee5b6e766415eea5673283a03",
       "logoURI": "https://assets.coingecko.com/coins/images/24826/small/usdt.png"
+    },
+    {
+      "name": "Evmoon",
+      "symbol": "Evmoon",
+      "chainId": 9001,
+      "decimals": 18,
+      "address": "0x524400756F3D288d90C04eaA0d130cB9c4ADC412",
+      "logoURI": "https://dweb.link/ipfs/bafybeia3zgw7y7eephx7h2b4hkhffjnvgfjjhtsfpbkumaf5mfj4y7ncbi/photo_2023-12-20_12-27-55.jpg"
+    },
+    {
+      "name": "Light",
+      "symbol": "LIGHT",
+      "chainId": 9001,
+      "decimals": 6,
+      "address": "0xe7520B4b89F105c53D4DBA596ebaF1Bd6A44D544",
+      "logoURI": "https://bafybeih665setthz7fos62aqelwh3ssrpzafjnpy5xd77kdbs5fwe5ppb4.ipfs.w3s.link/light.png"
+    },
+    {
+      "name": "Kava",
+      "symbol": "KAVA",
+      "chainId": 9001,
+      "decimals": 6,
+      "address": "0x6196aee47d983e9b20610a3e816935bffa8d17d1",
+      "logoURI": "https://bafybeibiwxnx234p5zfj6bj5jfgm2ztdngmwgltdurbo4xulws2mw2gojm.ipfs.w3s.link/kava.png"
     }
   ]
 }
