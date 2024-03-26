@@ -16,6 +16,14 @@
       "address": "0xD4949664cD82660AaE99bEdc034a0deA8A0bd517",
       "logoURI": "https://storage.googleapis.com/us-central1-dgc-berlin-0-470cbba9-bucket/tokenlist/wevmos.png"
     },
+     {
+      "name": "Orbital Apes Token",
+      "symbol": "OAT",
+      "chainId": 9001,
+      "decimals": 18,
+      "address": "0xeaa87fdf35a041963a1902dcc26bbaa2386a6800",
+      "logoURI": "https://raw.githubusercontent.com/CulinaryConsensus/oa-token-frontend/main/public/apeProfile-svg.svg"
+    },
     {
       "name": "Osmosis",
       "symbol": "OSMO",
