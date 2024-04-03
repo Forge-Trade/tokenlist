@@ -1,10 +1,10 @@
 {
   "name": "Forge Token List",
-  "timestamp": "2024-01-09T12:35:18Z",
+  "timestamp": "2024-03-26T21:40:23Z",
   "logoURI": "https://testnet.forge.trade/images/ForgeIcon.png",
   "version": {
     "major": 28,
-    "minor": 14,
+    "minor": 15,
     "patch": 10
   },
   "tokens": [
@@ -15,6 +15,14 @@
       "decimals": 18,
       "address": "0xD4949664cD82660AaE99bEdc034a0deA8A0bd517",
       "logoURI": "https://storage.googleapis.com/us-central1-dgc-berlin-0-470cbba9-bucket/tokenlist/wevmos.png"
+    },
+     {
+      "name": "Orbital Apes Token",
+      "symbol": "OAT",
+      "chainId": 9001,
+      "decimals": 18,
+      "address": "0xeaa87fdf35a041963a1902dcc26bbaa2386a6800",
+      "logoURI": "https://raw.githubusercontent.com/CulinaryConsensus/oa-token-frontend/main/public/apeProfile-svg.svg"
     },
     {
       "name": "Osmosis",
